@@ -20,7 +20,7 @@ Documentos contendo explicações, regras e instruções de cada jogo ou ativida
 ### 📁 **/recursos**  
 Arquivos complementares (planilhas, cartas, impressos, templates etc.)
 
-Cada pasta contém instruções de uso e exemplos para que professores e estudantes possam **aplicar os recursos de forma independente**.
+Cada material contém instruções de uso e exemplos para que professores e estudantes possam **aplicar os recursos de forma independente**.
 
 ---
 
